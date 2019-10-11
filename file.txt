@@ -1,7 +1,7 @@
-master 1st
-
 initial
 
-initial
+feature A 1st
+
+fixup! feature A 1st
 
 initial
