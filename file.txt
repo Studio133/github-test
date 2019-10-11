@@ -1,6 +1,6 @@
 feature 1st
 
-initial
+feature 2nd
 
 initial
 
