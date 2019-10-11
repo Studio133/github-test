@@ -1,7 +1,7 @@
-initial
+feature 1st
 
 initial
 
-initial
+fixup! feature 1st
 
 initial
