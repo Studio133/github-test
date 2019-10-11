@@ -2,6 +2,6 @@ initial
 
 feature A 1st
 
-initial
+fixup! feature A 1st
 
 initial
