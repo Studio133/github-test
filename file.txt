@@ -4,4 +4,4 @@ feature A 1st
 
 fixup! feature A 1st
 
-initial
+feature B 1st
