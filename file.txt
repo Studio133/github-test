@@ -4,4 +4,4 @@ feature 2nd
 
 fixup! feature 1st
 
-initial
+squash! feature 2nd
